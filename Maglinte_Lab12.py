@@ -4,7 +4,7 @@ Food_Numbering = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Food_Cost = [42, 43, 20, 15, 50, 35, 50, 27, 42, 78]
 
 # Display menu
-print("Hi! Welcome po sa aming karinderya, ano po ang bibilhin ninyo?")
+print("Hi! Welcome to our food corner! What food are you interested in?")
 print()
 print(f"{' ':>1}{'Food':<20}{'Price (PHP)':>10}")
 print(" - " * 30)
